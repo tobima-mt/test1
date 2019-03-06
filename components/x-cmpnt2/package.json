@@ -1,11 +1,14 @@
 {
-  "name": "@tobima-test/x-cmpnt1",
+  "name": "@tobima-test/x-cmpnt2",
   "version": "0.0.2",
   "description": "",
   "main": "x-cmpnt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "@tobima-test/x-cmpnt1": "0.0.2"
+  }
   "author": "",
   "license": "ISC"
 }
