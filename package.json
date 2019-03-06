@@ -1,6 +1,6 @@
 {
   "name": "@tobima-test/test1",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Tests",
   "main": "index.js",
   "scripts": {
